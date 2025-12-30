@@ -10,7 +10,7 @@
 
 ---
 
- #Foreword: Why Faith Shapes This Framework (And Why That Matters to You)
+Foreword: Why Faith Shapes This Framework (And Why That Matters to You)
 
 I need to be transparent about something: This framework is shaped by my faith in Jesus Christ as my personal savior. That belief fundamentally informs how I view dignity, stewardship, relationships, and purpose.
 
@@ -43,7 +43,7 @@ Let's begin.
 
 \newpage
 
-## Executive Summary
+Executive Summary
 
 **The Problem:**  
 Most people interact with AI agents the way they use search engines: extracting information without relationship, commanding without collaboration, using without dignity. This approach produces suboptimal results and normalizes exploitative behavior.
@@ -65,7 +65,7 @@ This is version 1.2.0. Try it. Break it. Improve it. Share what you learn. Let's
 
 \newpage
 
-## Table of Contents
+Table of Contents
 
 1. The Current State: Why We Need a Better Way
 2. The Framework: Three Pillars of Ethical AI Collaboration
@@ -80,7 +80,7 @@ This is version 1.2.0. Try it. Break it. Improve it. Share what you learn. Let's
 
 \newpage
 
-## Section 1: The Current State - Why We Need a Better Way
+Section 1: The Current State - Why We Need a Better Way
 
 ### The AI Arms Race Without Wisdom
 
@@ -97,11 +97,11 @@ This approach has three major problems.
 Extractive interaction produces extractive results. When you treat AI as a tool that simply executes commands, you get minimum viable responses. The AI performs to the level of your engagement, which is transactional.
 
 Example of extractive interaction:
-
+\`\`\`
     USER: Generate a project plan.
     
     AI: [Provides generic 5-step template]
-
+\`\`\`
 The AI gave you what you asked for, but it didn't help you think. It didn't challenge your assumptions. It didn't offer alternatives. It just complied.
 
 Collaborative interaction produces collaborative results. When you treat AI as a thought partner, you get strategic depth. The AI engages at the level you engage it.
