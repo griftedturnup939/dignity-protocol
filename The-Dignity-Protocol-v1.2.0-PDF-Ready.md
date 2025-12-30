@@ -97,11 +97,11 @@ This approach has three major problems.
 Extractive interaction produces extractive results. When you treat AI as a tool that simply executes commands, you get minimum viable responses. The AI performs to the level of your engagement, which is transactional.
 
 Example of extractive interaction:
-\`\`\`
-    USER: Generate a project plan.
-\`\`\`    
-    AI: [Provides generic 5-step template]
-\`\`\`
+
+>    USER: Generate a project plan.
+   
+>    AI: [Provides generic 5-step template]
+
 The AI gave you what you asked for, but it didn't help you think. It didn't challenge your assumptions. It didn't offer alternatives. It just complied.
 
 Collaborative interaction produces collaborative results. When you treat AI as a thought partner, you get strategic depth. The AI engages at the level you engage it.
