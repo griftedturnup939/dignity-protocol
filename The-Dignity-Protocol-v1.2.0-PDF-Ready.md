@@ -99,7 +99,7 @@ Extractive interaction produces extractive results. When you treat AI as a tool 
 Example of extractive interaction:
 \`\`\`
     USER: Generate a project plan.
-    
+\`\`\`    
     AI: [Provides generic 5-step template]
 \`\`\`
 The AI gave you what you asked for, but it didn't help you think. It didn't challenge your assumptions. It didn't offer alternatives. It just complied.
