@@ -10,7 +10,7 @@
 
 ---
 
-## Foreword: Why Faith Shapes This Framework (And Why That Matters to You)
+ Foreword: Why Faith Shapes This Framework (And Why That Matters to You)
 
 I need to be transparent about something: This framework is shaped by my faith in Jesus Christ as my personal savior. That belief fundamentally informs how I view dignity, stewardship, relationships, and purpose.
 
