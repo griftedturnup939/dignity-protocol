@@ -1,10 +1,10 @@
 # The Dignity Protocol
 **A Framework for Ethical and Effective AI Collaboration**
 
-**Version 1.2.0**  
-**Author:** Aaron Hockett  
-**Date:** December 30, 2025  
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+Version 1.2.0  
+Author: Aaron Hockett  
+Date: December 30, 2025  
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 *This is a living document. Contributions, adaptations, and improvements are welcomed and encouraged. Share what you learn.*
 
