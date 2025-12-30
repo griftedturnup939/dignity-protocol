@@ -67,18 +67,14 @@ This is version 1.2.0. Try it. Break it. Improve it. Share what you learn. Let's
 
 ## Table of Contents
 
-1. [The Current State: Why We Need a Better Way](#section-1)
-2. [The Framework: Three Pillars of Ethical AI Collaboration](#section-2)
-3. [Practical Application: How to Use This Framework](#section-3)
-4. [Case Studies: Real Results from Real Work](#section-4)
-5. [Business Impact: Why This Matters Beyond Ethics](#section-5)
-6. [Looking Forward: Scaling from Narrow AI to AGI](#section-6)
-7. [Get Involved: Contributing to This Framework](#section-7)
-8. [Appendix: Quick Reference Guide](#appendix)
+1. [The Current State: Why We Need a Better Way](#section-1-the-current-state---why-we-need-a-better-way)
+2. [The Framework: Three Pillars of Ethical AI Collaboration](#section-2-the-framework---three-pillars-of-ethical-ai-collaboration)
+3. [Practical Application: How to Use This Framework](#section-3-practical-application---how-to-use-this-framework)
+4. [Get Involved: Contributing to This Framework](#get-involved---contributing-to-this-framework)
 
 ---
 
-## Section 1: The Current State - Why We Need a Better Way {#section-1}
+## Section 1: The Current State - Why We Need a Better Way
 
 ### The AI Arms Race Without Wisdom
 
@@ -141,7 +137,7 @@ This white paper is an attempt to fill that gap.
 
 ---
 
-## Section 2: The Framework - Three Pillars of Ethical AI Collaboration {#section-2}
+## Section 2: The Framework - Three Pillars of Ethical AI Collaboration
 
 The Dignity Protocol rests on three foundational pillars. Each pillar serves a specific purpose, and together they create a comprehensive framework for ethical and effective AI collaboration.
 
@@ -338,7 +334,7 @@ The framework doesn't restrict creativity. It channels it toward productive and 
 
 ---
 
-## Section 3: Practical Application - How to Use This Framework {#section-3}
+## Section 3: Practical Application - How to Use This Framework
 
 Theory is useless without practice. Here's how to actually apply The Dignity Protocol in your daily AI collaboration.
 
@@ -442,7 +438,7 @@ Specific feedback gets specific improvements. Vague criticism gets vague revisio
 
 ---
 
-## Get Involved - Contributing to This Framework {#section-7}
+## Get Involved - Contributing to This Framework
 
 This is version 1.2.0 of The Dignity Protocol. It's not finished. It's not perfect. It's a starting point.
 
