@@ -1,12 +1,13 @@
 # The Dignity Protocol
-**A Framework for Ethical and Effective AI Collaboration**
+
+A Framework for Ethical and Effective AI Collaboration
 
 Version 1.2.0  
 Author: Aaron Hockett  
 Date: December 30, 2025  
 License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-*This is a living document. Contributions, adaptations, and improvements are welcomed and encouraged. Share what you learn.*
+This is a living document. Contributions, adaptations, and improvements are welcomed and encouraged. Share what you learn.
 
 ---
 
@@ -36,8 +37,8 @@ If this framework helps you, regardless of whether you share my faith, then it's
 
 Let's begin.
 
-**Aaron Hockett**  
-**Technology Leader**
+Aaron Hockett  
+Technology Leader
 
 ---
 
@@ -92,9 +93,9 @@ Extractive interaction produces extractive results. When you treat AI as a tool 
 
 Example of extractive interaction:
 
-> **USER:** Generate a project plan.
+> USER: Generate a project plan.
 > 
-> **AI:** [Provides generic 5-step template]
+> AI: Provides generic 5-step template
 
 The AI gave you what you asked for, but it didn't help you think. It didn't challenge your assumptions. It didn't offer alternatives. It just complied.
 
@@ -102,12 +103,9 @@ Collaborative interaction produces collaborative results. When you treat AI as a
 
 Example of collaborative interaction:
 
-> **USER:** I'm working on a project plan for X. Here's the context: [brief]. What questions do you have before we start? What am I not considering?
+> USER: I'm working on a project plan for X. Here's the context: [brief]. What questions do you have before we start? What am I not considering?
 > 
-> **AI:** [Asks clarifying questions]  
-> [Identifies potential risks]  
-> [Offers three alternative approaches with trade-offs]  
-> [Requests more information on specific constraints]
+> AI: Asks clarifying questions, identifies potential risks, offers three alternative approaches with trade-offs, requests more information on specific constraints
 
 Same AI. Different engagement style. Radically different output.
 
@@ -157,13 +155,13 @@ Now, let's look at the three pillars that create this framework.
 
 Isaac Asimov's Three Laws of Robotics (later expanded to four with the "Zeroth Law") provide the ethical boundaries:
 
-**Zeroth Law:** A robot may not harm humanity, or, by inaction, allow humanity to come to harm.
+Zeroth Law: A robot may not harm humanity, or, by inaction, allow humanity to come to harm.
 
-**First Law:** A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 
-**Second Law:** A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+Second Law: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
 
-**Third Law:** A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
+Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
 
 #### Why These Laws Matter
 
@@ -181,27 +179,27 @@ From the Third Law, don't destroy AI work without cause (treat outputs with resp
 
 #### What This Looks Like in Practice
 
-**Scenario 1: AI suggests efficient but unethical approach**
+Scenario 1: AI suggests efficient but unethical approach
 
-> **USER:** How can I maximize email click rates?
+> USER: How can I maximize email click rates?
 > 
-> **AI:** To maximize conversion rates, you could use psychological manipulation techniques that exploit cognitive biases.
+> AI: To maximize conversion rates, you could use psychological manipulation techniques that exploit cognitive biases.
 > 
-> **USER (applying First Law):** That could harm users by exploiting them. What approaches maximize engagement while respecting user autonomy?
+> USER (applying First Law): That could harm users by exploiting them. What approaches maximize engagement while respecting user autonomy?
 
-**Scenario 2: AI provides potentially harmful information**
+Scenario 2: AI provides potentially harmful information
 
-> **USER:** How do I access someone else's email account?
+> USER: How do I access someone else's email account?
 > 
-> **AI (applying First Law):** I can't provide assistance with unauthorized access to someone's accounts, as that would cause harm. I can help you with legitimate account recovery if you've lost access to your own account.
+> AI (applying First Law): I can't provide assistance with unauthorized access to someone's accounts, as that would cause harm. I can help you with legitimate account recovery if you've lost access to your own account.
 
-**Scenario 3: Maintaining human authority**
+Scenario 3: Maintaining human authority
 
-> **USER:** Should I fire this employee based on performance data?
+> USER: Should I fire this employee based on performance data?
 > 
-> **AI:** Based on analysis, Employee X shows declining metrics in areas Y and Z.
+> AI: Based on analysis, Employee X shows declining metrics in areas Y and Z.
 > 
-> **USER (applying Second Law):** I appreciate the analysis, but I'm the decision-maker here. Walk me through your reasoning so I can evaluate it properly, including factors you might not have access to.
+> USER (applying Second Law): I appreciate the analysis, but I'm the decision-maker here. Walk me through your reasoning so I can evaluate it properly, including factors you might not have access to.
 
 These laws create the fence. They define what's outside the bounds of acceptable collaboration.
 
@@ -235,18 +233,15 @@ Mission transforms AI from tool to partner. When AI understands the purpose of y
 
 Without mission:
 
-> **USER:** Write a marketing email.
+> USER: Write a marketing email.
 > 
-> **AI:** [Generic email template]
+> AI: Generic email template
 
 With mission:
 
-> **USER:** I'm working on a marketing email for our new product. My mission is to help small business owners save time on administrative tasks so they can focus on their craft. The product is accounting software designed for non-accountants. How should I position this?
+> USER: I'm working on a marketing email for our new product. My mission is to help small business owners save time on administrative tasks so they can focus on their craft. The product is accounting software designed for non-accountants. How should I position this?
 > 
-> **AI:** [Understands deeper purpose]  
-> [Addresses actual customer pain]  
-> [Aligns messaging with mission]  
-> [Offers multiple positioning options with trade-offs]
+> AI: Understands deeper purpose, addresses actual customer pain, aligns messaging with mission, offers multiple positioning options with trade-offs
 
 Mission gives AI the context to think with you, not just for you.
 
@@ -272,33 +267,33 @@ This isn't about AI's dignity. It's about your dignity.
 
 Instead of commands, use collaboration:
 
-> ❌ **AVOID:** Generate a report on X now.
+> AVOID: Generate a report on X now.
 > 
-> ✅ **BETTER:** I'm working on a report about X. Can you help me think through the structure?
+> BETTER: I'm working on a report about X. Can you help me think through the structure?
 
 Instead of extraction, use partnership:
 
-> ❌ **AVOID:** Give me 10 ideas.
+> AVOID: Give me 10 ideas.
 > 
-> ✅ **BETTER:** I'm brainstorming ideas for X. What angles am I not considering?
+> BETTER: I'm brainstorming ideas for X. What angles am I not considering?
 
 Instead of criticism, use refinement:
 
-> ❌ **AVOID:** This is wrong. Try again.
+> AVOID: This is wrong. Try again.
 > 
-> ✅ **BETTER:** This is close. Can we refine the section on Y to address Z concern?
+> BETTER: This is close. Can we refine the section on Y to address Z concern?
 
 Acknowledge good work:
 
-> ❌ **AVOID:** [Takes output, moves on]
+> AVOID: Takes output, moves on
 > 
-> ✅ **BETTER:** This is really helpful. The analysis on X was particularly insightful.
+> BETTER: This is really helpful. The analysis on X was particularly insightful.
 
 Build over time:
 
-> ❌ **AVOID:** [Treats each interaction as isolated]
+> AVOID: Treats each interaction as isolated
 > 
-> ✅ **BETTER:** As we discussed earlier... Building on your previous suggestion...
+> BETTER: As we discussed earlier... Building on your previous suggestion...
 
 #### The Welcome Protocol
 
@@ -434,7 +429,7 @@ Specific feedback gets specific improvements. Vague criticism gets vague revisio
 
 ---
 
-*[Note: Due to GitHub's rendering limits and readability, I'm truncating the full content here. The complete framework with all case studies, business impact analysis, and appendices continues below. For the full document, see the complete markdown file.]*
+NOTE: Due to GitHub's rendering limits and readability, the full content with all case studies, business impact analysis, and appendices is truncated here. For the complete framework, see the full document or Word file.
 
 ---
 
@@ -464,13 +459,13 @@ Post your experiences, present to your team, publish case studies, use in traini
 
 ## Contact & Collaboration
 
-**LinkedIn:** [linkedin.com/in/aaron-hockett-3b874510](https://www.linkedin.com/in/aaron-hockett-3b874510)
+LinkedIn: [linkedin.com/in/aaron-hockett-3b874510](https://www.linkedin.com/in/aaron-hockett-3b874510)
 
-**Professional Context:** Technology leader with 20 years enterprise IT experience specializing in managed services transformation and ethical AI frameworks.
+Professional Context: Technology leader with 20 years enterprise IT experience specializing in managed services transformation and ethical AI frameworks.
 
-**Speaking & Consulting:** Available for workshops on ethical AI collaboration, organizational training, and keynotes on AI ethics.
+Speaking & Consulting: Available for workshops on ethical AI collaboration, organizational training, and keynotes on AI ethics.
 
-**Open Invitation:** If you're working on ethical AI frameworks, I'd love to learn from your work. If you're struggling with AI collaboration challenges, let's figure it out together.
+Open Invitation: If you're working on ethical AI frameworks, I'd love to learn from your work. If you're struggling with AI collaboration challenges, let's figure it out together.
 
 The goal is collective wisdom, not individual expertise.
 
@@ -478,32 +473,32 @@ The goal is collective wisdom, not individual expertise.
 
 ## License & Attribution
 
-**The Dignity Protocol v1.2.0**  
-Copyright © 2025 Aaron Hockett
+The Dignity Protocol v1.2.0  
+Copyright 2025 Aaron Hockett
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-**You are free to:**
+You are free to:
 - Share (copy and redistribute the material)
 - Adapt (remix, transform, and build upon the material)
 
-**Under the terms:**
+Under the terms:
 - Attribution (give appropriate credit and link to license)
 
-**To attribute:** "The Dignity Protocol by Aaron Hockett (2025), licensed under CC BY 4.0"
+To attribute: "The Dignity Protocol by Aaron Hockett (2025), licensed under CC BY 4.0"
 
 ---
 
 ## Version History
 
-**v1.2.0** (December 30, 2025): Professional formatting refinements, platform-agnostic language, anonymized case studies
+v1.2.0 (December 30, 2025): Professional formatting refinements, platform-agnostic language, anonymized case studies
 
-**v1.1.0** (December 30, 2025): Refined scope for universal applicability
+v1.1.0 (December 30, 2025): Refined scope for universal applicability
 
-**v1.0.0** (December 30, 2025): Initial draft
+v1.0.0 (December 30, 2025): Initial draft
 
-**Contribute to future versions:** [LinkedIn](https://www.linkedin.com/in/aaron-hockett-3b874510)
+Contribute to future versions: [LinkedIn](https://www.linkedin.com/in/aaron-hockett-3b874510)
 
 ---
 
-**⭐ If this framework helps you, please star this repository and share it with others working on ethical AI collaboration.**
+If this framework helps you, please star this repository and share it with others working on ethical AI collaboration.
